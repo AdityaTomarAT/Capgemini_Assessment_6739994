@@ -1,0 +1,23 @@
+{
+  "name": "capgemini_assessment_6739994",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaTomarAT/Capgemini_Assessment_6739994.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AdityaTomarAT/Capgemini_Assessment_6739994/issues"
+  },
+  "homepage": "https://github.com/AdityaTomarAT/Capgemini_Assessment_6739994#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.5"
+  }
+}
