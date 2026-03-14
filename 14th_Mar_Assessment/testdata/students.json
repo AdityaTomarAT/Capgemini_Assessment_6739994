@@ -1,16 +1,16 @@
 [
   {
-    "firstName": "Florence",
-    "lastName": "Rajora",
-    "email": "florence@test.com",
+    "firstName": "Aditya",
+    "lastName": "Tomar",
+    "email": "aditya@test.com",
     "gender": "Female",
     "mobile": "8770070682"
   },
   {
-    "firstName": "Harshita",
-    "lastName": "Rajora",
-    "email": "harshita@test.com",
-    "gender": "Female",
+    "firstName": "Tanishq",
+    "lastName": "Tomar",
+    "email": "teeno@test.com",
+    "gender": "Male",
     "mobile": "9009979322"
   }
 ]
