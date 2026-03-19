@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "Aditya",
+    "lastName": "Tomar",
+    "email": "aditya@test.com",
+    "gender": "Female",
+    "mobile": "8770070682"
+  },
+  {
+    "firstName": "Tanishq",
+    "lastName": "Tomar",
+    "email": "teeno@test.com",
+    "gender": "Male",
+    "mobile": "9009979322"
+  }
+]
